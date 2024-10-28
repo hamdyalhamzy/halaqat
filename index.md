@@ -1,123 +1,69 @@
 ---
 layout: default
+title: "برنامج الحلقات"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# برنامج الحلقات
 
-[Link to another page](./another-page.html).
+مرحبًا بكم في **برنامج الحلقات** للقرآن الكريم والتسميع.  
+نحن هنا لمساعدتكم في حفظ وتسميع القرآن الكريم بطريقة ميسرة تناسب جميع الأعمار والمستويات.
 
-There should be whitespace between paragraphs.
+## أهداف البرنامج
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> "خيركم من تعلم القرآن وعلمه"  
+> نهدف إلى تعليم وحفظ القرآن الكريم بأسلوب مرن وميسر لجميع المشاركين.
 
-# Header 1
+## كيف تبدأ؟
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. قم بالتسجيل في الحلقة التي تناسب مستواك.
+2. تابع الجدول الأسبوعي للحلقات المتاحة.
+3. ابدأ الحفظ أو التسميع مع أحد المعلمين المتخصصين.
 
-## Header 2
+## الحلقات المتاحة
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| المستوى        | الفئة المستهدفة        | وقت الحلقة        |
+|:---------------|:-----------------------|:------------------|
+| المبتدئ        | جميع الأعمار           | من 4 إلى 5 مساءً  |
+| المتوسط        | من 12 إلى 18 عامًا     | من 5 إلى 6 مساءً  |
+| المتقدم        | من 18 عامًا فما فوق    | من 6 إلى 7 مساءً  |
 
-### Header 3
+## أساتذتنا
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<dl>
+<dt>الشيخ محمد عبد الله</dt>
+<dd>إمام وخطيب ومدرس للقرآن منذ أكثر من 15 عامًا.</dd>
+<dt>الشيخ عبد الرحمن السالم</dt>
+<dd>متخصص في تعليم الأطفال والشباب، وله خبرة واسعة في الحلقات القرآنية.</dd>
+<dt>الشيخة فاطمة الزهراء</dt>
+<dd>معلمة للنساء والأطفال، خبيرة في تعليم الحفظ بالتجويد.</dd>
+</dl>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## صور من البرنامج
 
-#### Header 4
+![حلقة التسميع](https://example.com/path/to/image1.png)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![حفظ القرآن](https://example.com/path/to/image2.png)
 
-##### Header 5
+## التسجيل في الحلقات
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+للتسجيل في حلقات القرآن الكريم، يرجى النقر على الرابط التالي:  
+[اضغط هنا للتسجيل](https://example.com/register).
 
-###### Header 6
+## الجدول الزمني للحلقات
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+1. [التعرف على المزيد حول البرنامج](https://example.com/about)
+2. [الجدول الزمني للحلقات](https://example.com/schedule)
+3. [الأسئلة الشائعة](https://example.com/faq)
 
-### There's a horizontal rule below this.
+## التواصل معنا
+
+يمكنكم التواصل معنا عبر وسائل التواصل الاجتماعي:
+
+- تويتر: [@quran_program](https://twitter.com/quran_program)
+- فيسبوك: [facebook.com/quranprogram](https://facebook.com/quranprogram)
+- البريد الإلكتروني: [contact@quranprogram.com](mailto:contact@quranprogram.com)
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+نتطلع لرؤيتكم في حلقاتنا.  
+استمعوا، احفظوا، وساهموا في نشر القرآن الكريم.

@@ -1,5 +1,9 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "برنامج الحلقات"
+description: "منصة إلكترونية لحلقات القرآن الكريم والتسميع"
+show_downloads: false  # إذا لم تكن بحاجة لعرض روابط التحميل، يمكنك تعطيلها
+google_analytics: ""   # إذا كان لديك معرف Google Analytics، يمكنك وضعه هنا لتتبع الزوار
 theme: jekyll-theme-cayman
+
+# روابط التواصل الاجتماعي (إن وجد)
+github_username: ""    # إذا كنت لا تستخدم GitHub لعرض الكود أو المشاريع، يمكنك تركه فارغًا
+twitter_username: "username"  # إذا كان لديك حساب تويتر للحلقات، ضع اسم المستخدم هنا
