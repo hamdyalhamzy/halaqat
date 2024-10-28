@@ -3,18 +3,38 @@
 // تخصيص اللون الرئيسي باستخدام اللون الذي اخترته
 $primary-color: #F79726;
 
+// تطبيق RTL
+body {
+  direction: rtl;  // النصوص سيتم ترتيبها من اليمين إلى اليسار
+  text-align: right;  // محاذاة النصوص إلى اليمين
+}
+
 // تعديل لون العناوين الرئيسية
 h1, h2, h3 {
-  color: $primary-color;  // تطبيق اللون الرئيسي على العناوين
+  color: $primary-color;
+  text-align: right;  // محاذاة العناوين إلى اليمين
+}
+
+// تعديل لون الفقرات
+p {
+  text-align: right;  // محاذاة الفقرات إلى اليمين
 }
 
 // تعديل لون الروابط
 a {
-  color: $primary-color;  // تطبيق اللون الرئيسي على الروابط
+  color: $primary-color;
+  text-align: right;  // محاذاة الروابط إلى اليمين
 }
 
 // تعديل لون الأزرار
 button {
   background-color: $primary-color;
   color: white;  // لون النص على الأزرار سيكون أبيض
+  float: right;  // نقل الأزرار إلى الجهة اليمنى
+}
+
+// تخصيص القوائم
+ul, ol {
+  padding-right: 20px;  // ضبط المسافات للقوائم
+  text-align: right;  // محاذاة القوائم إلى اليمين
 }
