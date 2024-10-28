@@ -1,40 +1,19 @@
-@import 'jekyll-theme-cayman';
-
-// تخصيص اللون الرئيسي باستخدام اللون الذي اخترته
-$primary-color: #F79726;
-
-// تطبيق RTL
+// تطبيق RTL لجميع النصوص
 body {
-  direction: rtl;  // النصوص سيتم ترتيبها من اليمين إلى اليسار
-  text-align: right;  // محاذاة النصوص إلى اليمين
-}
-
-// تعديل لون العناوين الرئيسية
-h1, h2, h3 {
-  color: $primary-color;
-  text-align: right;  // محاذاة العناوين إلى اليمين
-}
-
-// تعديل لون الفقرات
-p {
-  text-align: right;  // محاذاة الفقرات إلى اليمين
-}
-
-// تعديل لون الروابط
-a {
-  color: $primary-color;
-  text-align: right;  // محاذاة الروابط إلى اليمين
-}
-
-// تعديل لون الأزرار
-button {
-  background-color: $primary-color;
-  color: white;  // لون النص على الأزرار سيكون أبيض
-  float: right;  // نقل الأزرار إلى الجهة اليمنى
-}
-
-// تخصيص القوائم
-ul, ol {
-  padding-right: 20px;  // ضبط المسافات للقوائم
-  text-align: right;  // محاذاة القوائم إلى اليمين
-}
+    direction: rtl;  // النص سيبدأ من اليمين إلى اليسار
+    text-align: right;  // محاذاة النصوص إلى اليمين
+  }
+  
+  h1, h2, h3, p {
+    text-align: right;  // محاذاة العناوين والفقرات إلى اليمين
+  }
+  
+  blockquote {
+    text-align: right;  // محاذاة الاقتباسات إلى اليمين
+  }
+  
+  ul, ol {
+    text-align: right;  // محاذاة القوائم إلى اليمين
+    padding-right: 20px;  // تعديل المسافات للقوائم لتتوافق مع RTL
+  }
+  
